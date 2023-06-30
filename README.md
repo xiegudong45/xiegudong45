@@ -9,6 +9,9 @@
             <img src="./img/java.svg">
         </td>
         <td>
+            <img src="./img/rust.svg">
+        </td>
+        <td>
             <img src="./img/javascript.svg">
         </td>
         <td>
@@ -45,7 +48,7 @@
 </table>
 
 - 🔭 I’m currently working at Bytedance
-- 🌱 I’m currently learning Move Language
+- 🌱 I’m currently learning Rust
 - 📫 Connect with me on: [LinkedIn](https://www.linkedin.com/in/shenghao-xie/)
 - 😄 Pronouns: He/Him
 
